@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from enum import Enum
 class OrdStatus(Enum):
     """Assign numbers to each different pizza order status"""
